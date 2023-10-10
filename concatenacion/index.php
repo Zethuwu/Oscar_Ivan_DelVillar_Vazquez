@@ -13,7 +13,7 @@
             <h3>Nombre</h3>
         </div>
 
-        <input type = " text" name="txtnombre" class="form-control" style="width : 500px; heigth : 100px" placeholder="Ponga su nombre aqui">
+        <input  name="txtnombre" class="form-control" style="width : 500px; heigth : 100px" placeholder="Ponga su nombre aqui">
         <div class="form-text"> 
              <h3>Edad</h3>
         </div>
